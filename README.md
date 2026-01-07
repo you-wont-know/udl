@@ -7,7 +7,6 @@ This repository contains code the UDL Mini-Project - reproducing and extending [
 - **cnn.py** contains the implementation of the CNN that was reproduced, as well as two CNN implementations for AI and MFVI CNNs. This file also contains the ELBO defined for the MFVI CNN.
 - **data.py**: contains MNIST data splitting.
 - **episode.py**: contains an implementation for a single episode. This file got a bit complicated to follow after adding the extensions (we wanted to reuse code).
-- 
 
 **Candidate number:** 1102191.
 
